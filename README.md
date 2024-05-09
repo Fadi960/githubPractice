@@ -1,2 +1,2 @@
 # githubPractice
-it is for practicing github commands
+it is for practicing github commands and javascript
