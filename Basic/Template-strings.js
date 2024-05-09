@@ -10,5 +10,4 @@ const greeting = ` Hello, ${Name}! How are you?`
 console.log(Name);
 // built in methods
 let userName = "Fahad Ahmed"
-userName.toUpperCase
-console.log(userName);
+console.log(userName.toUpperCase());
