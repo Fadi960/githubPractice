@@ -24,8 +24,8 @@ console.log(arr);
 // unshift  (add one or more element to the beginning of an array)
 let arr2 = [2,3]
 console.log(arr2);
-let addElement = arr.unshift(1)
-console.log(arr);
+let addElement = arr2.unshift(1)
+console.log(arr2);
 
 // indexOf
 

@@ -8,5 +8,5 @@ console.log(arr);
 // accessing
 
 let arr2= [1, 2, 3, 4]
-arr2 = [1]
+arr2 = arr2[1]
 console.log(arr2);
